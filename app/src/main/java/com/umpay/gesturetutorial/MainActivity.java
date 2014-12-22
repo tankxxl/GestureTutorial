@@ -8,10 +8,15 @@ import android.view.MenuItem;
 
 public class MainActivity extends ActionBarActivity {
 
+    TouchImageView mImageView;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        mImageView = (TouchImageView) findViewById(R.id.image_view);
+        mImageView.setImageResource(R.drawable.git_memo_zh);
     }
 
 
