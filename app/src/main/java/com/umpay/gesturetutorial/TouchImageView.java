@@ -59,8 +59,8 @@ public class TouchImageView extends ImageView implements ScaleGestureDetector.On
     @Override
     public boolean onScaleBegin(ScaleGestureDetector detector) {
         // Return ture here to tell the ScaleGestureDetector we
-        // are in a scale and want to continue tracking.
         return true;
+        // are in a scale and want to continue tracking.
     }
 
     @Override
