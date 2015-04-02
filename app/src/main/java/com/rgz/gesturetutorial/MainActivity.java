@@ -1,4 +1,4 @@
-package com.umpay.gesturetutorial;
+package com.rgz.gesturetutorial;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;

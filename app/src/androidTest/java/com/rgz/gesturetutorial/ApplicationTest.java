@@ -1,4 +1,4 @@
-package com.umpay.gesturetutorial;
+package com.rgz.gesturetutorial;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

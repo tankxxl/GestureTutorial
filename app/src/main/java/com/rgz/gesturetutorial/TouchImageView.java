@@ -1,4 +1,4 @@
-package com.umpay.gesturetutorial;
+package com.rgz.gesturetutorial;
 
 import android.content.Context;
 import android.graphics.Matrix;
